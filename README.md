@@ -28,4 +28,5 @@ We first draw first row of the right triangle, then the first row of the rectang
 
 # Resources
 > https://www.cuemath.com/geometry/equation-of-circle/
+> 
 > https://www.mathsisfun.com/algebra/circle-equations.html
